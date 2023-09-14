@@ -9,4 +9,16 @@ body {
 
 p {
   font-family: serif, hevetica, arial;
+} 
+
+ul {
+  font-family:  serif, heveetica, arial;
+  font-size: 1.2em;
+  text-align: center;
+  padding: 0px; 
+} 
+li {
+  list-style: none;
+  display: inline-block;
+  margin: 0px 20px;
 }
