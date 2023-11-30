@@ -3,7 +3,6 @@ body {
   color: white;
   font-family: serif;
   letter-space: 08em; 
-  font-size: 1.4em; 
   padding: 0px; 
 } 
 
@@ -11,12 +10,23 @@ h1 {
   font-family: arial, helvetica, sans ferif; 
 }
 
+h2 {
+  font-family: serif, helvetica, arial;
+  text-align: centre;
+} 
+
+h3 {
+  font-family: serif;
+}
+
 p {
-  font-family: serif, hevetica, arial;
+  font-family: serif, hevetica, arial; 
+  word-spacing: nomral; 
+  font-size: 1.2em;
 } 
 
 ul {
-  font-family:  serif, heveetica, arial;
+  font-family:  serif, helvetica, arial;
   font-size: 1.2em;
   text-align: center;
   padding: 0px; 
