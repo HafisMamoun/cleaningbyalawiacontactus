@@ -8,16 +8,16 @@ body {
 h1 { 
   font-family: sans serif, helvetica, arial;
   font-weight: 1.4em; 
-  font-size: 5.0em;
+  font-size: 4.0em;
   text-align: centre;
-  margin: 0px 120px;
+  margin: 0px 100px;
 }
 
 h2 {
   font-family: serif, helvetica, arial;
-  font-size: 3.0em;
+  font-size: 2.5.0em;
   text-align: centre;
-  margin: 0px 220px;
+  margin: 0px 200px;
 }
 
 h3 {
